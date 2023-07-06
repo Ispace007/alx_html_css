@@ -1,0 +1,8 @@
+body
+{
+    display: flex;
+}
+main
+{
+    flex-direction: row; flex: auto;
+}
